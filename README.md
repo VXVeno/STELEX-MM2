@@ -33,4 +33,4 @@ Paste into your executor and run.
 
 ## Support
 
-https://discord.gg/W32bfEUWRr
+discord.gg/stelex
